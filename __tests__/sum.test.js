@@ -1,5 +1,4 @@
 // sum.test.js
-import test from 'node:test';
 import { sum } from '../code-to-unit-test/sum';
 
 test('adds 1 + 2 to equal 3', () => {
